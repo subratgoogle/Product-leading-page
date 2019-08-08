@@ -174,7 +174,7 @@ header{
     justify-content: center;
     height: 125px;
     width: 20vw;
-    color: darkorange;
+    color: rgb(211, 58, 12);
   }
   
   @media (max-width: 550px) {
